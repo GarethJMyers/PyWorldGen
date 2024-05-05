@@ -1,0 +1,371 @@
+The changes made between wordlist_orig.ods and wordlist_touse.ods
+The former is the wordlist provided by NGSL 1.2, the latter is the list to usein the project
+
+1. Changed the following from "aux" to verb, to allow for their verbs:
+    i. "Can" to allow for "to be able to"
+    ii. "Could" to allow for "could be able to"
+    iii. "Have" - handling of perfect tense will be randomly generated, require verb form.
+    iv. "Might"
+    v. "Must"
+    vi. "Should"
+    vii. "Will"
+    viii. "Would"
+
+2. Deleted the following as they are covered by other words:
+    i. "May" - covered by "Could"
+    ii. "Ought" - covered by "should"
+    iii. "Shall" - covered by "will"
+    iv. "Cash" - covered by "money"
+    v. "Chat" - covered by "talk"
+    vi. "Currency" - covered by "money"
+    vii. "Dad" - covered by "father"
+    viii. "Mom" - covered by "monther"
+
+
+3. Deleted the following anachronistic/non-fantasy setting words:
+    ad
+    advertise
+    advertisement
+    attachment
+    bike
+    broadcast
+    bus
+    cable
+    camera
+    cent
+    computer
+    consultant
+    corporate
+    database
+    digital
+    director
+    dollar
+    e-mail
+    electric
+    electricity
+    electronic
+    enterprise
+    episode
+    executive
+    federal
+    football
+    gene
+    genetic
+    golf
+    governor
+    guitar
+    gun
+    hell
+    inch
+    mortgage
+    newspaper
+    nuclear
+    online
+    pension
+    phone
+    photo
+    photograph
+    piano
+    president
+    presidential
+    printer
+    shareholder
+    ski
+    software
+    solar
+    space
+    taxi
+    terrorist
+    train
+    van
+    virus
+    website
+    yard
+    yeah
+
+4. Other changes to word types:
+    i. Changed all "verb, noun" to "noun, verb" for consistant classes
+    ii. "Channel" from "noun" to "verb" - TV channels are anarchronistic, but fantasy settings may involve channeling magic
+    iii "Father" from "noun" to "noun, verb" as it can be both
+    iv. "Lie" from "verb" to "noun, verb" as it can be both
+    v. Changed "park" from "verb" to "noun, verb" as it can be both
+    vi. Changed "jail" from "noun, verb" to "verb", as the noun form is covered by "prison"
+    vii. Changed "smoke" from "verb" to "noun, verb" as it can be both
+    viii. Changed "spell" from "verb" to "noun" as it is more the latter in fantasy settings
+
+6. Added the following fantasy words:
+    Alchemy
+    Arcane
+    Assassin
+    Archer
+    Armor
+    Armorer
+    Amulet
+    Arrow
+    Axe
+    Abyss
+    Altar
+    Artificer
+    Arboreal
+    Alchemist
+    Ancestral
+    Apparition
+    Archmage
+    Acolyte
+    Barbarian
+    Blacksmith
+    Bog
+    Bard
+    Book
+    Bracer
+    Boots
+    Buckler
+    Bolt
+    Bane
+    Brewmaster
+    Brigand
+    Belltower
+    Blight
+    Brimstone
+    Brazen
+    Barren
+    Blessing
+    Bazaar
+    Bladecraft
+    Bladesmith
+    Berserker
+    Conduit
+    Conjuration
+    Conjure
+    Corrupt
+    Chalice
+    Chieftan
+    Chief
+    Champion
+    Chestplate
+    Cauldron
+    Charm
+    Chariot
+    Cove
+    Cave
+    Crown
+    Crest
+    Captain
+    Cloak
+    Courier
+    Crypt
+    Coven
+    Crag
+    Catacomb
+    Chaos
+    Cairn
+    Cryptic
+    Druid
+    Domain
+    Dungeon
+    Dagger
+    Demonic
+    Disenchant
+    Dispel
+    Divine
+    Divinity
+    Eldritch
+    Elixir
+    Enchant
+    Ether
+    Etheric
+    Emperor
+    Empire
+    Entity
+    Enchantment
+    Enchanting
+    Eon
+    Elder
+    Equinox
+    Folklore
+    Feast
+    Forest
+    Fable
+    Fairytale
+    Forge
+    Gauntlet
+    Goblet
+    Gorge
+    Greave
+    Guardian
+    Guard
+    Glyph
+    Gatekeeper
+    Gemstone
+    Grimoire
+    Honor
+    Honorguard
+    Holy
+    Hunter
+    Herald
+    Helm
+    Hollow
+    Horn
+    Hymn
+    Imbue
+    Illusion
+    Invocation
+    Invoker
+    Infernal
+    Incorporeal
+    Incarnate
+    Inlay
+    Illusory
+    Inferno
+    Journeyman
+    Jester
+    Joker
+    Javelin
+    Jewelcraft
+    Kingdom
+    Knight
+    Kin
+    Lair
+    Lantern
+    Legend
+    Lancer
+    Lore
+    Lancer
+    Labryinth
+    Leyline
+    Mage
+    Magician
+    Monarch
+    Meditate
+    Marauder
+    Monolith
+    Meadow
+    Moonrise
+    Mirage
+    Medallion
+    Monument
+    Necromancy
+    Noble
+    Necropolis
+    Nomad
+    Novice
+    Oracle
+    Omen
+    Oath
+    Onyx
+    Outpost
+    Ornate
+    Obelisk
+    Pantheon
+    Paladin
+    Paragon
+    Pauldron
+    Phantasmal
+    Potion
+    Portal
+    Plain
+    Prophecy
+    Perilous
+    Pinnacle
+    Pyre
+    Pariah
+    Parchment
+    Panacea
+    Queen
+    Quest
+    Quiver
+    Quagmire
+    Quicksilver
+    Quicksand
+    Quell
+    Quaint
+    Quill
+    Ring
+    Realm
+    Rogue
+    Rune
+    Relic
+    Ritual
+    Ruin
+    Runic
+    Rift
+    Regal
+    Ranger
+    Rustic
+    Reliquary
+    Revenant
+    Scout
+    Seer
+    Shard
+    Shadow
+    Shaman
+    Shield
+    Skull
+    Sin
+    Scribe
+    Scroll
+    Spellbook
+    Squire
+    Skirmisher
+    Sword
+    Swordmaiden
+    Swordsman
+    Smite
+    Tale
+    Throne
+    Totem
+    Tome
+    Thaumaturgy
+    Twilight
+    Talisman
+    Tyrant
+    Talon
+    Trinket
+    Tranquil
+    Tincture
+    Unholy
+    Uprising
+    Unleash
+    Undying
+    Unyielding
+    Unruly
+    Valor
+    Valley
+    Vanguard
+    Vortex
+    Veil
+    Vagrant
+    Vitality
+    Voyage
+    Valiant
+    Vagabond
+    Vanquish
+    Vision
+    Visonary
+    Vial
+    Vestige
+    Vellum
+    Vestment
+    Wand
+    Wicked
+    Wild
+    Wings
+    Wisdom
+    Wizard
+    Wizardry
+    Warden
+    Watchman
+    Wanderer
+    Whirlwind
+    Warcry
+    Weave
+    Weight
+    Waystone
+    Zealot
+
+7. Other notes
+    i. Kept "earth" as meaning soil etc., not just the planet
+    ii. Kept "film" as it can mean a thin layer as well as a moving picture
+    iii. Removed "human" as races are generated seperately
+    iv. Removed "one" as numbers are generated separately
+    v. Removed "sir" as titles are generated separately

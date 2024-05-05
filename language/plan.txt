@@ -1,0 +1,7 @@
+Language module
+Aim: module able to randomly generate a language, either using selections by the user or randomly generating
+settings. The created contains a dictionary that can translate single words or basic sentences.
+
+The words
+
+Types of sentences to be
