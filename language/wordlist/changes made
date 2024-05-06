@@ -19,7 +19,8 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     v. "Chat" - covered by "talk"
     vi. "Currency" - covered by "money"
     vii. "Dad" - covered by "father"
-    viii. "Mom" - covered by "monther"
+    viii. "Examination" - covered by "exam"
+    ix. "Mom" - covered by "monther"
 
 
 3. Deleted the following anachronistic/non-fantasy setting words:
@@ -34,6 +35,7 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     cable
     camera
     cent
+    cigarette
     computer
     consultant
     corporate
@@ -58,7 +60,9 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     gun
     hell
     inch
+    mile
     mortgage
+    movie
     newspaper
     nuclear
     online
@@ -86,13 +90,16 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
 
 4. Other changes to word types:
     i. Changed all "verb, noun" to "noun, verb" for consistant classes
-    ii. "Channel" from "noun" to "verb" - TV channels are anarchronistic, but fantasy settings may involve channeling magic
-    iii "Father" from "noun" to "noun, verb" as it can be both
-    iv. "Lie" from "verb" to "noun, verb" as it can be both
-    v. Changed "park" from "verb" to "noun, verb" as it can be both
-    vi. Changed "jail" from "noun, verb" to "verb", as the noun form is covered by "prison"
-    vii. Changed "smoke" from "verb" to "noun, verb" as it can be both
-    viii. Changed "spell" from "verb" to "noun" as it is more the latter in fantasy settings
+    ii. "Answer" from "noun" to "noun, verb" as it can be both
+    iii. "Channel" from "noun" to "verb" - TV channels are anarchronistic, but fantasy settings may involve channeling magic
+    iv. "Drink" from "verb" to "noun, verb" as it can be both
+    v. "Father" from "noun" to "noun, verb" as it can be both
+    vi. "Fear" from "noun" to "noun, verb" as it can be both
+    vii. "Lie" from "verb" to "noun, verb" as it can be both
+    viii. Changed "park" from "verb" to "noun, verb" as it can be both
+    ix. Changed "jail" from "noun, verb" to "verb", as the noun form is covered by "prison"
+    x. Changed "smoke" from "verb" to "noun, verb" as it can be both
+    xi. Changed "spell" from "verb" to "noun" as it is more the latter in fantasy settings
 
 6. Added the following fantasy words:
     Alchemy
@@ -117,9 +124,7 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     Blacksmith
     Bog
     Bard
-    Book
     Bracer
-    Boots
     Buckler
     Bolt
     Bane
@@ -141,11 +146,8 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     Corrupt
     Chalice
     Chieftan
-    Chief
-    Champion
     Chestplate
     Cauldron
-    Charm
     Chariot
     Cove
     Cave
@@ -174,18 +176,14 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     Elixir
     Enchant
     Ether
-    Etheric
     Emperor
-    Empire
     Entity
     Enchantment
-    Enchanting
     Eon
     Elder
     Equinox
     Folklore
     Feast
-    Forest
     Fable
     Fairytale
     Forge
@@ -194,13 +192,10 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     Gorge
     Greave
     Guardian
-    Guard
     Glyph
     Gatekeeper
     Gemstone
     Grimoire
-    Honor
-    Honorguard
     Holy
     Hunter
     Herald
@@ -231,7 +226,6 @@ The former is the wordlist provided by NGSL 1.2, the latter is the list to usein
     Legend
     Lancer
     Lore
-    Lancer
     Labryinth
     Leyline
     Mage
